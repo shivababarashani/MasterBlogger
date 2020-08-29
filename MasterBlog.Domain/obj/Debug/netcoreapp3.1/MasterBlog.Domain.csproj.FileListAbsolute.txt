@@ -1,0 +1,9 @@
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\bin\Debug\netcoreapp3.1\MasterBlog.Domain.deps.json
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\bin\Debug\netcoreapp3.1\MasterBlog.Domain.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\bin\Debug\netcoreapp3.1\MasterBlog.Domain.pdb
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\obj\Debug\netcoreapp3.1\MasterBlog.Domain.csprojAssemblyReference.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\obj\Debug\netcoreapp3.1\MasterBlog.Domain.AssemblyInfoInputs.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\obj\Debug\netcoreapp3.1\MasterBlog.Domain.AssemblyInfo.cs
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\obj\Debug\netcoreapp3.1\MasterBlog.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\obj\Debug\netcoreapp3.1\MasterBlog.Domain.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Domain\obj\Debug\netcoreapp3.1\MasterBlog.Domain.pdb

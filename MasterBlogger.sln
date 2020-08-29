@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterBlog.Domain", "MasterBlog.Domain\MasterBlog.Domain.csproj", "{C94F07C9-5CEF-4021-A7B1-B8F449A45E63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterBlog.Application.Contracts", "MasterBlog.Application.Contracts\MasterBlog.Application.Contracts.csproj", "{DE150282-2A0E-440B-A9B0-EE1D3CF70CC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterBlog.Application", "MasterBlog.Application\MasterBlog.Application.csproj", "{59702FAB-654C-4AF9-B061-12E31D7E3EDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterBlogger.Infrastructure.EfCore", "MasterBlogger.Infrastructure.EfCore\MasterBlogger.Infrastructure.EfCore.csproj", "{447A9729-7946-4B8B-880E-D21F4D363D01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterBlogger.Presentation.MvcCore", "MasterBlogger.Presentation.MvcCore\MasterBlogger.Presentation.MvcCore.csproj", "{D8E4C456-6ADB-4376-BE80-98D9ECEA3B10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterBlogger.Infrastructure.Config", "MasterBlogger.Infrastructure.Config\MasterBlogger.Infrastructure.Config.csproj", "{4D45DD92-1BEB-45E4-9F38-14673667A4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94F07C9-5CEF-4021-A7B1-B8F449A45E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94F07C9-5CEF-4021-A7B1-B8F449A45E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94F07C9-5CEF-4021-A7B1-B8F449A45E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94F07C9-5CEF-4021-A7B1-B8F449A45E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE150282-2A0E-440B-A9B0-EE1D3CF70CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE150282-2A0E-440B-A9B0-EE1D3CF70CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE150282-2A0E-440B-A9B0-EE1D3CF70CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE150282-2A0E-440B-A9B0-EE1D3CF70CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59702FAB-654C-4AF9-B061-12E31D7E3EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59702FAB-654C-4AF9-B061-12E31D7E3EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59702FAB-654C-4AF9-B061-12E31D7E3EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59702FAB-654C-4AF9-B061-12E31D7E3EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447A9729-7946-4B8B-880E-D21F4D363D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447A9729-7946-4B8B-880E-D21F4D363D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447A9729-7946-4B8B-880E-D21F4D363D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447A9729-7946-4B8B-880E-D21F4D363D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E4C456-6ADB-4376-BE80-98D9ECEA3B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E4C456-6ADB-4376-BE80-98D9ECEA3B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E4C456-6ADB-4376-BE80-98D9ECEA3B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E4C456-6ADB-4376-BE80-98D9ECEA3B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D45DD92-1BEB-45E4-9F38-14673667A4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D45DD92-1BEB-45E4-9F38-14673667A4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D45DD92-1BEB-45E4-9F38-14673667A4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D45DD92-1BEB-45E4-9F38-14673667A4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299EA999-5A63-412D-A430-D9E7A8AE1BF4}
+	EndGlobalSection
+EndGlobal

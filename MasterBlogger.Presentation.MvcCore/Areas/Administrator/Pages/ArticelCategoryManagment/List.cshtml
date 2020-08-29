@@ -1,0 +1,49 @@
+﻿@page
+@model MasterBlogger.Presentation.MvcCore.Area.Administrator.Pages.ArticelCategoryManagment.ListModel
+@{
+}
+<a asp-page="/ArticelCategoryManagment/Create" asp-area="Administrator">Create New</a>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>IsDeleted</th>
+            <th>CreationDate</th>
+            <th>operations</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model.articelCategories)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Titel</td>
+                <td>@item.IsDeleted</td>
+                <td>@item.CreationDate</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a>
+                    @if (@item.IsDeleted)
+                    {
+                        <form method="post" asp-page-handler="Active">
+                            <button class="btn btn-danger">Active</button>
+                            <input type="hidden" name="id" value="@item.Id" />
+                        </form>
+                    }
+                    else
+                    {
+                        <form method="post" asp-page-handler="Remove">
+                            <button class="btn btn-danger">Remove</button>
+                            <input type="hidden" name="id" value="@item.Id" />
+                        </form>
+                    }
+                </td>
+
+                
+
+            </tr>
+        }
+        </tbody>
+</table>
+

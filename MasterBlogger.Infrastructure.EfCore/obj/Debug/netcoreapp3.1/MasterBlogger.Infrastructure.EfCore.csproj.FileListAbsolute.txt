@@ -1,0 +1,15 @@
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlog.Domain.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.csprojAssemblyReference.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.AssemblyInfoInputs.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.AssemblyInfo.cs
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.deps.json
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.runtimeconfig.json
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.runtimeconfig.dev.json
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.pdb
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\bin\Debug\netcoreapp3.1\MasterBlog.Domain.pdb
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.csproj.CoreCompileInputs.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.csproj.CopyComplete
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.pdb
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlogger.Infrastructure.EfCore\obj\Debug\netcoreapp3.1\MasterBlogger.Infrastructure.EfCore.genruntimeconfig.cache

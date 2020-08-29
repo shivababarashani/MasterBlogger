@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MasterBlog.Application/1.0.0": {
+        "dependencies": {
+          "MasterBlog.Application.Contracts": "1.0.0",
+          "MasterBlog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MasterBlog.Application.dll": {}
+        }
+      },
+      "MasterBlog.Application.Contracts/1.0.0": {
+        "runtime": {
+          "MasterBlog.Application.Contracts.dll": {}
+        }
+      },
+      "MasterBlog.Domain/1.0.0": {
+        "runtime": {
+          "MasterBlog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasterBlog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasterBlog.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasterBlog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

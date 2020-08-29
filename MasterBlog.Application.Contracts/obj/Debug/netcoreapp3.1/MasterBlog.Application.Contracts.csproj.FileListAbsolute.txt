@@ -1,0 +1,9 @@
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\bin\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.deps.json
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\bin\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\bin\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.pdb
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\obj\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.csprojAssemblyReference.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\obj\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.AssemblyInfoInputs.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\obj\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.AssemblyInfo.cs
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\obj\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\obj\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.dll
+E:\Projects\MasterBlogger\MasterBlogger\MasterBlog.Application.Contracts\obj\Debug\netcoreapp3.1\MasterBlog.Application.Contracts.pdb
